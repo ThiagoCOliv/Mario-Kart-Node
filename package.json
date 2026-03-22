@@ -1,0 +1,27 @@
+{
+  "name": "mario-kart-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoCOliv/Mario-Kart-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ThiagoCOliv/Mario-Kart-Node/issues"
+  },
+  "homepage": "https://github.com/ThiagoCOliv/Mario-Kart-Node#readme",
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "typescript": "^5.9.3"
+  }
+}
